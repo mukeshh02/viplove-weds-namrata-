@@ -1,0 +1,1316 @@
+[
+  {
+    "url": "https://www.wooowinvites.com/invite/demo-86bfb2",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "method": "GET",
+    "body_length": 13023
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/events.b979ee024b15adfd.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 28786
+  },
+  {
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 433362
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Alex+Brush&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Abril+Fatface&family=Bebas+Neue&family=Oswald:wght@400;500;600;700&family=Righteous&family=Passion+One:wght@400;700;900&family=Bodoni+Moda:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Cinzel:wght@400;500;600;700;800;900&family=Cinzel+Decorative:wght@400;700;900&family=Yeseva+One&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Dancing+Script:wght@400;500;600&family=Poppins:wght@300;400;500;600;700&family=Beth+Ellen&family=Pinyon+Script&family=Allura&family=Italianno&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Creepster&display=swap",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8",
+    "method": "GET",
+    "body_length": 126695
+  },
+  {
+    "url": "https://www.wooowinvites.com/fonts/site/playfair-display-normal-latin.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/fonts/site/inter-normal-latin.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/fonts/site/cormorant-garamond-normal-latin.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/fonts/site/great-vibes-normal-latin.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-18143310610",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "method": "GET",
+    "body_length": 492800
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/modulepreload-polyfill-B5Qt9EMX.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 711
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/main-B022O9yo.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 1322
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&apvc=1&auid=2118162343.1795000998&dt=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&tid=AW-18143310610&en=page_view&dl=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&scrsrc=www.googletagmanager.com&rnd=1651871890.1795000998&navt=n&npa=0&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&tft=1795000998401&tfd=1243&tids=AW-18143310610~AW-11039610382&fmt=8",
+    "status": 200,
+    "content_type": "",
+    "method": "POST"
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/11039610382/?random=1795000998388&cv=11&fst=1795000998388&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": "",
+    "method": "POST"
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11039610382/?random=1795000998388&cv=11&fst=1795000998388&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "method": "GET",
+    "body_length": 8005
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18143310610/?random=1795000998360&cv=11&fst=1795000998360&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "method": "GET",
+    "body_length": 8005
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/18143310610/?random=1795000998360&cv=11&fst=1795000998360&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": "",
+    "method": "POST"
+  },
+  {
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=2118162343.1795000998&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&fmt=8",
+    "status": 204,
+    "content_type": "",
+    "method": "POST"
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/main-B2vAd_zR.css",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8",
+    "method": "GET",
+    "body_length": 294913
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/11039610382/?random=1795000998388&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAogo4dW1_SjQTqMdAP0i4FR-fcZur7Pu-kRVStQfPIEDNGy8ZN1v_HkXpnXy0nt5UJMNxcIZLe13YlSZtVwuleiU1XxnUEHJOF8LPpDe-S47BY-xlH5w9fqW5wt-REBoJ9ABJhFfcwqI_aaJZ6X-W5boy4kSzeV--MMTnRRQLrQnoxPDSyk5TFy-x_8paz68-JYxOq-WOLHxcQ5Lj3NRSc-ZcfbVwGhwDNI58-ZydJcCrWytfvT7-GoxfkkXt_DvouJS1OSj-qmzYgvJ6STd4DhrWaA&random=3415501623&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/18143310610/?random=1795000998360&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAogo4dR2spQIkB-2r2W9ydLCWJn4c43PF_yI59EH8H9hcyVr8HS7XTce79FdBka75SSQNBe6Bi3_jLmhQdYxNwknWcHgOiVdEsqV8gwp0-2R0sb0Mr7-V9cgZE35z-bavMRuqK5sDjgKvJxSGQqvn2q3twULi--MZG2YO8gjLmXH45Sa4a5dOJdez_tXr8hK37A_fxmOGyZGZEoDnjgqSxSCXVefUP_tPZRPJjAaoglwogJrbUPEqaY7ps8ELjUZS5p8A7JO1C22NJZtxTinOruQP5A&random=3624337079&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.google.co.in/pagead/1p-user-list/18143310610/?random=1795000998360&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAogo4dR2spQIkB-2r2W9ydLCWJn4c43PF_yI59EH8H9hcyVr8HS7XTce79FdBka75SSQNBe6Bi3_jLmhQdYxNwknWcHgOiVdEsqV8gwp0-2R0sb0Mr7-V9cgZE35z-bavMRuqK5sDjgKvJxSGQqvn2q3twULi--MZG2YO8gjLmXH45Sa4a5dOJdez_tXr8hK37A_fxmOGyZGZEoDnjgqSxSCXVefUP_tPZRPJjAaoglwogJrbUPEqaY7ps8ELjUZS5p8A7JO1C22NJZtxTinOruQP5A&random=3624337079&rmt_tld=1&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.google.co.in/pagead/1p-user-list/11039610382/?random=1795000998388&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u_w=430&u_h=932&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=10&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2118162343.1795000998&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uamb=1&uam=&uap=iOS&uapv=17_0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAogo4dW1_SjQTqMdAP0i4FR-fcZur7Pu-kRVStQfPIEDNGy8ZN1v_HkXpnXy0nt5UJMNxcIZLe13YlSZtVwuleiU1XxnUEHJOF8LPpDe-S47BY-xlH5w9fqW5wt-REBoJ9ABJhFfcwqI_aaJZ6X-W5boy4kSzeV--MMTnRRQLrQnoxPDSyk5TFy-x_8paz68-JYxOq-WOLHxcQ5Lj3NRSc-ZcfbVwGhwDNI58-ZydJcCrWytfvT7-GoxfkkXt_DvouJS1OSj-qmzYgvJ6STd4DhrWaA&random=3415501623&rmt_tld=1&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-203HDHSKVZ&cx=c&gtm=4e6bg2",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "method": "GET",
+    "body_length": 594405
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/index-CXidNrjy.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 172939
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1458810709218875?v=2.9.441&r=stable&domain=www.wooowinvites.com&im=1&hme=abf59d235177e3601acac6035d7c2a28fadbda4b0c64009bc203ceed9fa8bb90&ex_m=119%2C243%2C172%2C27%2C82%2C83%2C163%2C78%2C77%2C11%2C182%2C102%2C20%2C154%2C142%2C46%2C85%2C90%2C184%2C111%2C150%2C177%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C116%2C162%2C72%2C186%2C110%2C185%2C212%2C264%2C37%2C84%2C284%2C283%2C282%2C14%2C25%2C28%2C40%2C62%2C118%2C68%2C10%2C73%2C112%2C113%2C114%2C120%2C145%2C38%2C36%2C147%2C148%2C149%2C144%2C143%2C173%2C86%2C176%2C174%2C175%2C57%2C69%2C67%2C138%2C19%2C180%2C52%2C335%2C336%2C337%2C334%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C55%2C164%2C87%2C127%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C125%2C161%2C165%2C53%2C126%2C29%2C26%2C134%2C79%2C43%2C167%2C166%2C168%2C158%2C156%2C30%2C42%2C66%2C124%2C179%2C80%2C21%2C129%2C93%2C76%2C23%2C97%2C98%2C131%2C96%2C152%2C151%2C155%2C109%2C178%2C181%2C41%2C351%2C353%2C374%2C257%2C239%2C70%2C240%2C238%2C377%2C368%2C59%2C258%2C122%2C146%2C92%2C136%2C61%2C54%2C56%2C128%2C135%2C141%2C140%2C65%2C74%2C169%2C88%2C89%2C130%2C44%2C39%2C60%2C63%2C115%2C183%2C1%2C139%2C16%2C137%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C133%2C101%2C100%2C188%2C189%2C106%2C107%2C9%2C117%2C187%2C58%2C159%2C99%2C91%2C81%2C132%2C121%2C170%2C50%2C160%2C0%2C94%2C153%2C157%2C171%2C45%2C123%2C13%2C190",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 671118
+  },
+  {
+    "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-203HDHSKVZ&cid=1003952578.1795000999&gtm=45je6bg2v9251437479za208zb9237843982zd9237843982xf1&rcb=16&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121246026~121246034&z=659817564",
+    "status": 200,
+    "content_type": "image/gif",
+    "method": "GET"
+  },
+  {
+    "url": "https://connect.facebook.net/signals/plugins/engagementdata.js?v=2.9.441",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 30567
+  },
+  {
+    "url": "https://connect.facebook.net/signals/plugins/scrolldepth.js?v=2.9.441",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 30564
+  },
+  {
+    "url": "https://connect.facebook.net/signals/plugins/webchat.js?v=2.9.441",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 30560
+  },
+  {
+    "url": "https://connect.facebook.net/signals/plugins/smartsetupselfsupervisedrule.js?v=2.9.441",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 30581
+  },
+  {
+    "url": "https://connect.facebook.net/signals/plugins/webtee.js?v=2.9.441",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 30559
+  },
+  {
+    "url": "https://connect.facebook.net/signals/plugins/microdata.js?v=2.9.441",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 37524
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/trackevents",
+    "status": 202,
+    "content_type": "application/json",
+    "method": "POST",
+    "body_length": 17,
+    "saved_to": "resp_20_POST.json"
+  },
+  {
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-203HDHSKVZ&cid=1003952578.1795000999&gtm=45je6bg2v9251437479za208zb9237843982zd9237843982xf1&rcb=16&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121246026~121246034",
+    "status": 204,
+    "content_type": "text/plain",
+    "method": "POST",
+    "body_length": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-203HDHSKVZ&gtm=45je6bg2v9251437479za208zb9237843982zd9237843982xf1&_p=1795000997899&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACAC&cid=1003952578.1795000999&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=16&sr=430x932&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uam=&uamb=1&uap=iOS&uapv=17_0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121246026~121246034&sid=1795000998&sct=1&seg=0&dl=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&dt=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1593",
+    "status": 204,
+    "content_type": "text/plain",
+    "method": "POST",
+    "body_length": 0
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/main-u7K_qvU_.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 1658877
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=1458810709218875&ev=PageView&dl=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rl=&if=false&ts=1795000998903&iw=false&sw=430&sh=932&cud[external_id]=***_%23%23%23%23%23%23%23%23%23%23%23%23%23_*%23******%23*%23&ncud[external_id]=***_%23%23%23%23%23%23%23%23%23%23%23%23%23_*%23******%23*%23&ud[external_id]=87adf5b69107e5c3e71bb6116ec3910b0fa98727bd66854844e9e1cf67dff923&aud[external_id][0][v]=87adf5b69107e5c3e71bb6116ec3910b0fa98727bd66854844e9e1cf67dff923&aud[external_id][0][s]=0&v=2.9.441&r=stable&ec=0&o=69662&aems=0%3B0&fbp=fb.1.1795000998892.413417291726820392&eid=ob3_plugin-set_77207655b24a75802236c122799f306412a60e9b2899c563363dad05f2bb5a50&ler=empty&cdl=API_unavailable&pmd[title]=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&pmd[locale]=en&plt=1249.4000000059605&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%221013003544480960%22%2C%22v%22%3A%5B%22Digital%20wedding%20invitations%20with%20animated%20themes%2C%20RSVP%20tracking%20%26%20multilingual%20support.%20Stunning%20invites%20for%20weddings%20%26%20events.%22%5D%7D%5D%2C%22author%22%3A%5B%7B%22rid%22%3A%221806347790401429%22%2C%22v%22%3A%5B%22wooowinvites%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%222150759092214509%22%2C%22v%22%3A%5B%22Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites%22%5D%7D%5D%7D&imft=1&tz=330&it=1795000998128&coo=false&ap[currency]=EUR&ap[contents]=%5B%7B%22item_price%22%3A0%7D%5D&cf=1&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=ot1&expv2[8]=hv1&expv2[9]=rh0&expv2[10]=ah0&expv2[11]=nv1&expv2[12]=oq0&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain",
+    "method": "GET",
+    "body_length": 0
+  },
+  {
+    "url": "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js",
+    "status": 200,
+    "content_type": "binary/octet-stream",
+    "method": "GET"
+  },
+  {
+    "url": "https://track.wooowinvites.com/pixel.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 27667
+  },
+  {
+    "url": "https://www.googletagmanager.com/a?v=3&t=l&pid=460893860&rv=6bg2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123785233&u=AAAAAAAAAAAAACCA&ut=AgAAgAAB&h=Ag&gtm=45be6bg2v9237843982za200zd9237843982xf1&ccid=237843982&cid=AW-18143310610&l=L739.S9.Y4.B60.E873.I741.TC16.HTC0.C4~gtm.init_consent.S3.V2.E62~gtm.init.S0.V0.E62.TS5ogtautoevents.TI12.TE0.TS5ogt1pdatav2.TI14.TE1.TS5ccdadsfirst.TI18.TE0.TS5ccdadsfirst.TI22.TE0.TS5ccdemform.TI17.TE1.TS5ccdemform.TI21.TE0.TS5ccdadd1pdata.TI16.TE0.TS5ccdadd1pdata.TI20.TE0.TS5ccdadslast.TI15.TE1.TS5ccdadslast.TI19.TE0~gtm.js.S0.V0.E55.TS5rep.TI8.TE0.TS5rep.TI10.TE0~*.S0.V0.E53.TS5destaw.TI4.TE2.TS5destaw.TI5.TE0~*.S0.V0.E11.TS5destaw.TI4.TE0.TS5destaw.TI5.TE0~*.S0.V0.E4~gtm.dom.S0.V0.E1~gtm.scrollDepth.S0.V0.E10~gtm.load.S0.V0.E2",
+    "status": 200,
+    "content_type": "text/html",
+    "method": "GET",
+    "body_length": 0
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/desktopFlorals-CdanN345.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 2537
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/almond-jasmine-lace-loop.mp4.asset-WZwNwUcN.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 3329
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/dialog-BWRGIOfC.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 2166
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/wedding-couple-ski-kiss-theme.mp4.asset-BkkoiZTL.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 30509
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/PhotoboothClassicTheme-BdMzQgjZ.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 19231
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/dateFormats-BAti2Zh2.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 26832
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/Invitation-DJ5CVkvo.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 259152
+  },
+  {
+    "url": "https://capig.datah04.com/events/bd4f2a29f3f0468f465815074c11569e1f606887bdcd7e35657433a7d404460d",
+    "status": 200,
+    "content_type": "application/json",
+    "method": "POST",
+    "body_length": 0,
+    "saved_to": "resp_38_POST.json"
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/EnvelopeOpening-Bw4Yew4R.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 121468
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/index-BZmooqSs.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 5573
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/en-US-D3c9jfE3.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 7774
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/photoScratchOval-C2UcBgqP.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 105523
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/PhotoboothPhoto-1M2CwX63.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 156952
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/birthday-party-theme.mp4.asset-MFgc2P0G.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 482
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/wedding-cake-theme.mp4.asset-DtsbVGpD.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 620
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/format-Bgh_Aje5.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 13108
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/fairytale-theme.mp4.asset-C2vdBViy.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 613
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/pool-party-2-theme-poster.jpg.asset-Dj0_AVOj.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 992
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/curtains-theme.mp4.asset-B07ywN3k.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 608
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/swan-garden-theme-poster.jpg.asset-ClZAJgRk.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 10864
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/seaview-balcony-theme.mp4.asset-BPvo8Kzc.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 629
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/dancing-couple-theme.mp4.asset-ClJFA33a.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 626
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/swan-garden-theme.mp4.asset-CRAJYIRK.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 3888
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/azure-sea-vows-poster.jpg.asset-C6dO85rZ.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 2974
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/fountain-birdy-theme.mp4.asset-DR7tP0wR.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 626
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/festivity-theme.mp4.asset-CmpY954d.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 611
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/pool-party-2-theme.mp4.asset-BaSGgcA-.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 486
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/swans-heart-theme.mp4.asset-BTp8QxVD.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 617
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/golden-gates-theme.mp4.asset-BI6-_vsd.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 622
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/shining-light-theme.mp4.asset-Bg9l3Sbd.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 623
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/quinceanera-watercolor-theme.mp4.asset-D0zx3txH.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 507
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/wedding-dance-colorful-theme.mp4.asset-UtUqcM_8.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 650
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/royal-heritage-theme.mp4.asset-CypBI-mw.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 626
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/palm-zoom-theme.mp4.asset-MIeqZ2Gc.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 613
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/birthday-party-theme-poster-BjlwgF9R.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 75
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/azure-sea-vows-theme.mp4.asset-CC5Qc3RM.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 971
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/just-married-car-theme.mp4.asset-DkbY7Nc0.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 634
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/balcony-heaven-theme.mp4.asset-DC_FFyfv.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 628
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/quinceanera-red-theme.mp4.asset-SOAqgyaJ.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 629
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/dancing-fun-theme.mp4.asset-DQowOGOq.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 617
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/quinceanera-theme.mp4.asset-B1M6SbWG.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 617
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/quinceanera-pink.mp4.asset-B89dBKpY.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 471
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/quinceanera-pink-poster.jpg.asset-B4Rf5dcJ.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 1983
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/champagne-clink-theme.mp4.asset-DaGp99h1.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 629
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/santa-sleigh-ride-poster.jpg.asset-dYYwSaHz.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 45718
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/coffee-fqYV9-6k.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 472
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/music-BRbQ6CwF.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 387
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/utensils-crossed-BWaW9Aje.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 529
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/camera-C7OGKro1.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 416
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/sun-BpoOlMaM.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 640
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/plane-CtLo7Gus.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 474
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/clock-eVo73bXL.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 351
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/map-pin-C1c7TwOg.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 426
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/dressCodePresets-CpRwfohU.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 2945
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/manishaRsvp-CrZLI3BF.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 99442
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/plus-D0YU7uFA.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 321
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/kissing-couple-theme.mp4.asset-Dy0w933X.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 626
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/accordion-DCWBaLpe.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 4937
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/users-Dp-VJpCY.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 472
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/snow-fairytale-theme.mp4.asset-BH2IbRTo.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 628
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/car-DUVyTEKW.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 575
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/mic-Ca4qO2Cs.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 438
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/loader-circle-HIpnx97d.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 311
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/label-DglWvpPD.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 908
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/textarea-S33tv9bM.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 482
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/demoAttribution-BI391AYO.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 1787
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/lock-D3pbnC8J.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 374
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/altar-theme.mp4.asset-adc5IAJH.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 599
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/dressCodeImageLibrary-B87H5TNM.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 8681
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/arrow-up-right-BcldoryL.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 333
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/user-Bn4PNQk8.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 364
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/circle-play-fn2nhiv8.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 360
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/zap-DE7NSJzD.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 430
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/index-DhT6tQa5.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 2525
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/checkbox-JCuvoz0D.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 4224
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/halloweenProduct-Dbj4Sn7w.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 14309
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/shirt-Dl_Aqkuy.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 454
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/pool-party-kids-theme.mp4.asset-5u7Y8MwM.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 495
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/waves-X5-OFLtt.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 596
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/party-popper-DkG7Imkl.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 1744
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/castle-theme.mp4.asset-DlFV6Sd6.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 602
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/trophy-Dnj2C1bQ.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 633
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/flowery-border-theme.mp4.asset-CqAmmhyd.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 626
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/bus-ywuP0yuG.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 620
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/confetti.module-BwfKgdxr.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 10663
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/arrow-left-ClB5Gb17.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 332
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/search-CwAs9DXc.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 340
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/tabs-CevJgLkF.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 3551
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/tree-pine-CIKtUEYd.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 476
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/index-DDiF0IZJ.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 789
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/karenInvitation-CFGlRBrR.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 1538
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/copy-DKKdZYQr.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 404
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/snow-mountains-theme.mp4.asset-DgyJRiPp.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 626
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/popover-ByFm_vNF.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 5639
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/index-Bp9VRL7F.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 231
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/jessicaInvitation-Bjyp4TST.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 67886
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/download-DQRDzcj4.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 430
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/calendar-DykJ-n5-.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 425
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/chevron-left-Ds0sdLok.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 297
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/compass-IvLyS7JW.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 419
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/designerDemos-CJVq8G4Q.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 963
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/riva-boat-theme.mp4.asset-C3kRo1-d.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 611
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/shopping-bag-D-GZc5l-.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 418
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/BetsGame-Bw08begh.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 23434
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/coins-fWCukg92.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 447
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/sea-view-theme.mp4.asset-CMr-qmWg.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 608
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/blockBackgroundThemes-WRf0v65d.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 28095
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/gift-BPyU_PYA.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 524
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/triangle-alert-kEG2z0zG.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 432
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/radio-group-gasxiiZa.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 4344
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/PhotoboothStripTheme-JNt2oRYc.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 6966
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/hamaouiSaveTheDate-BC8coTlF.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 1202
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/hotel-DWuUgPib.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 674
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/CountdownBlock-D0aT0M8M.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 22602
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/RSVPBlock-BL9afsUm.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 114841
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/external-link-DX6WsHVF.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 418
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/WeddingWebsiteBlock-Yur5Slkr.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 134940
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/juanInvitation-Cw2YPrNa.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 710
+  },
+  {
+    "url": "https://connect.facebook.net/signals/pdl/query/?queries=%5B%7B%22pdl_query%22%3A%22AvUpeRV7vzHmD9XTls231_4qyCeSddChG5fKnmjwDRc%22%2C%22query_type%22%3A%222%22%7D%5D&pixel_id=1458810709218875",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "method": "GET",
+    "body_length": 3721
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Style+Script&family=Ephesis&family=Meddon&family=Pinyon+Script&family=Sacramento&family=Parisienne&family=Tangerine&family=Petit+Formal+Script&family=Mrs+Saint+Delafield&family=Mr+De+Haviland&family=Pacifico&family=Satisfy&family=Kaushan+Script&family=Caveat&family=Homemade+Apple&family=La+Belle+Aurore&family=Marck+Script&family=Yellowtail&family=Alex+Brush&family=EB+Garamond&family=Cardo&family=Crimson+Text&family=Libre+Baskerville&family=Merriweather&family=Cormorant&family=Spectral&family=Italiana&family=Forum&family=Marcellus&family=Cinzel+Decorative&family=Abril+Fatface&family=Bodoni+Moda&family=Yeseva+One&family=Cormorant+SC&family=DM+Sans&family=Work+Sans&family=Outfit&family=Manrope&family=Nunito&family=Quicksand&family=Raleway&family=Josefin+Sans&family=Creepster&family=Nosifer&family=Eater&family=Butcherman&family=Metal+Mania&family=Pirata+One&family=Griffy&family=Rye&display=swap",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8",
+    "method": "GET",
+    "body_length": 63072
+  },
+  {
+    "url": "https://ipapi.co/json/",
+    "status": 200,
+    "content_type": "application/json",
+    "method": "GET",
+    "body_length": 846,
+    "saved_to": "resp_147_GET.json"
+  },
+  {
+    "url": "https://www.wooowinvites.com/favicon.png",
+    "status": 200,
+    "content_type": "image/png",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/assets-v1/ca4a0f18-9a84-44c8-910c-ff0796f20aec/embroidery-sky-bg.png",
+    "status": 200,
+    "content_type": "image/png",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/assets-v1/a6685457-7703-4100-8859-11b9b8d10d30/embroidery-blush-bg.png",
+    "status": 200,
+    "content_type": "image/png",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/assets-v1/8a00aaf5-b01a-449a-b839-e36042885cad/embroidery-white-bg.png",
+    "status": 200,
+    "content_type": "image/png",
+    "method": "GET"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/functions/v1/detect-country",
+    "status": 200,
+    "content_type": "application/json",
+    "method": "POST",
+    "body_length": 36,
+    "saved_to": "resp_148_POST.json"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/assets-v1/cb04e778-0c4f-4bab-ae81-885b5d76de55/embroidery-beige-bg.png",
+    "status": 200,
+    "content_type": "image/png",
+    "method": "GET"
+  },
+  {
+    "url": "https://api64.ipify.org/?format=json",
+    "status": 200,
+    "content_type": "application/json",
+    "method": "GET",
+    "body_length": 24,
+    "saved_to": "resp_150_GET.json"
+  },
+  {
+    "url": "https://api64.ipify.org/?format=text",
+    "status": 200,
+    "content_type": "text/plain",
+    "method": "GET",
+    "body_length": 15
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/rest/v1/rpc/get_invitation_data",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "method": "POST",
+    "body_length": 2,
+    "saved_to": "resp_152_POST.json"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/rest/v1/rpc/get_event_password_status",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "method": "POST",
+    "body_length": 5,
+    "saved_to": "resp_153_POST.json"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/trackevents",
+    "status": 202,
+    "content_type": "application/json",
+    "method": "POST",
+    "body_length": 17,
+    "saved_to": "resp_153_POST.json"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/rest/v1/rpc/get_demo_invitation",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "method": "POST",
+    "body_length": 88374,
+    "saved_to": "resp_154_POST.json"
+  },
+  {
+    "url": "https://www.wooowinvites.com/assets/desktop-hanging-florals-DP95P4yP.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/assets-v1/8868a3a9-a61b-43b8-8a6e-a942b7e3471c/palm-zoom-theme.mp4",
+    "status": 206,
+    "content_type": "video/mp4",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/assets-v1/0a41e5c9-7864-471b-8abd-1eeb5518f984/palm-zoom-theme-poster.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "method": "GET"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/opening-animation-1777312876430.mp4",
+    "status": 206,
+    "content_type": "video/mp4",
+    "method": "GET",
+    "error": "Response.text: Protocol error (Network.getResponseBody): No data found for resource with given identifier\nResponse body is not available for a response that was navigated away from. Read response.body() before triggering any navigation."
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/rest/v1/guest_categories?select=id&event_id=eq.98032531-8029-42fd-8ba2-3f50d3ab7f3a",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "method": "HEAD",
+    "body_length": 0,
+    "saved_to": "resp_157_HEAD.json"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/opening-animation-1777312876430.mp4",
+    "status": 206,
+    "content_type": "video/mp4",
+    "method": "GET",
+    "error": "'utf-8' codec can't decode byte 0xa3 in position 0: invalid start byte"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/envelope-floral-cream-baby-pink-1777193644197.png",
+    "status": 200,
+    "content_type": "image/png",
+    "method": "GET",
+    "error": "'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/opening-animation-1777312876430.mp4",
+    "status": 206,
+    "content_type": "video/mp4",
+    "method": "GET",
+    "error": "'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/rest/v1/memory_books?select=slug&event_id=eq.98032531-8029-42fd-8ba2-3f50d3ab7f3a&status=eq.active&order=created_at.desc&limit=1",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "method": "GET",
+    "body_length": 21,
+    "saved_to": "resp_160_GET.json"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/rest/v1/bet_boards?select=slug%2Ctitle&event_id=eq.98032531-8029-42fd-8ba2-3f50d3ab7f3a&is_active=eq.true&order=created_at.desc&limit=1",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "method": "GET",
+    "body_length": 64,
+    "saved_to": "resp_161_GET.json"
+  },
+  {
+    "url": "https://kdcyugwruypwrmtllswt.supabase.co/rest/v1/rpc/get_public_invitation_categories",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "method": "POST",
+    "body_length": 2,
+    "saved_to": "resp_163_POST.json"
+  },
+  {
+    "url": "https://track.wooowinvites.com/v1/pixel/events",
+    "status": 200,
+    "content_type": "application/json",
+    "method": "POST",
+    "body_length": 136,
+    "saved_to": "resp_163_POST.json"
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-203HDHSKVZ&gtm=45je6bg2v9251437479za200zb9237843982zd9237843982xf1&_p=1795000997899&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAACQC&ae=a&cid=1003952578.1795000999&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=16&sr=430x932&uaa=arm&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CMicrosoft%2520Edge%3B157.0.4341.60%7CChromium%3B157.0.8103.80&uam=&uamb=1&uap=iOS&uapv=17_0&uaw=0&ul=en-us&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121246026~121246034&sid=1795000998&sct=1&seg=0&dl=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&dt=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&en=scroll&epn.percent_scrolled=90&_et=14&tfd=6614",
+    "status": 204,
+    "content_type": "text/plain",
+    "method": "POST",
+    "body_length": 0
+  },
+  {
+    "url": "https://www.wooowinvites.com/fonts/site/inter-normal-cyrillic.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/fonts/site/inter-normal-latin-ext.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.wooowinvites.com/__l5e/trackevents",
+    "status": 202,
+    "content_type": "application/json",
+    "method": "POST",
+    "body_length": 17,
+    "saved_to": "resp_165_POST.json"
+  }
+]

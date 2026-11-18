@@ -1,0 +1,510 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff2",
+      "id": "4afbe7eb4c0dc20f",
+      "kind": "font",
+      "name": "inter-normal-latin.woff2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/4afbe7eb4c0dc20f.woff2",
+      "url": "https://www.wooowinvites.com/fonts/site/inter-normal-latin.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "87a943ae13611037",
+      "kind": "font",
+      "name": "cormorant-garamond-normal-latin.woff2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/87a943ae13611037.woff2",
+      "url": "https://www.wooowinvites.com/fonts/site/cormorant-garamond-normal-latin.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "df0826838d2c33e5",
+      "kind": "font",
+      "name": "playfair-display-normal-latin.woff2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/df0826838d2c33e5.woff2",
+      "url": "https://www.wooowinvites.com/fonts/site/playfair-display-normal-latin.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "542bd1db4e275aed",
+      "kind": "font",
+      "name": "great-vibes-normal-latin.woff2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/542bd1db4e275aed.woff2",
+      "url": "https://www.wooowinvites.com/fonts/site/great-vibes-normal-latin.woff2"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "1a0fd050f7540cbf",
+      "kind": "image",
+      "name": "ga-audiences",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/1a0fd050f7540cbf",
+      "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-203HDHSKVZ&cid=746961396.1795000294&gtm=45je6bg2v9251437479za208zb9237843982zd9237843982xf1&rcb=0&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120412526~120420416~120469145~120469153~121246026~121246034&z=1118368481"
+    },
+    {
+      "contentType": "image/png",
+      "id": "6eb53c2847e2853c",
+      "kind": "image",
+      "name": "embroidery-beige-bg.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/6eb53c2847e2853c.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/cb04e778-0c4f-4bab-ae81-885b5d76de55/embroidery-beige-bg.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "2ecf0484168d8419",
+      "kind": "image",
+      "name": "embroidery-white-bg.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/2ecf0484168d8419.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/8a00aaf5-b01a-449a-b839-e36042885cad/embroidery-white-bg.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "faf0960e58d484b3",
+      "kind": "image",
+      "name": "embroidery-sky-bg.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/faf0960e58d484b3.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/ca4a0f18-9a84-44c8-910c-ff0796f20aec/embroidery-sky-bg.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e0494b64543a90a2",
+      "kind": "image",
+      "name": "embroidery-blush-bg.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/e0494b64543a90a2.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/a6685457-7703-4100-8859-11b9b8d10d30/embroidery-blush-bg.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3b58cc5897a6c9af",
+      "kind": "image",
+      "name": "palm-zoom-theme-poster.jpg",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/3b58cc5897a6c9af.jpg",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/0a41e5c9-7864-471b-8abd-1eeb5518f984/palm-zoom-theme-poster.jpg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a1833043a899758b",
+      "kind": "image",
+      "name": "desktop-hanging-florals-DP95P4yP.webp",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/a1833043a899758b.webp",
+      "url": "https://www.wooowinvites.com/assets/desktop-hanging-florals-DP95P4yP.webp"
+    },
+    {
+      "contentType": "video/mp4",
+      "id": "1a88c7be2843c0dd",
+      "kind": "video",
+      "name": "palm-zoom-theme.mp4",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/1a88c7be2843c0dd.mp4",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/8868a3a9-a61b-43b8-8a6e-a942b7e3471c/palm-zoom-theme.mp4"
+    },
+    {
+      "contentType": "image/png",
+      "id": "05196195dca44974",
+      "kind": "image",
+      "name": "favicon.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/05196195dca44974.png",
+      "url": "https://www.wooowinvites.com/favicon.png"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "7d9628d7e6be7c09",
+      "kind": "font",
+      "name": "playfair-display-italic-latin.woff2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/7d9628d7e6be7c09.woff2",
+      "url": "https://www.wooowinvites.com/fonts/site/playfair-display-italic-latin.woff2"
+    },
+    {
+      "contentType": "image/png",
+      "id": "31f7f8cd00fb8a45",
+      "kind": "image",
+      "name": "floral-cluster-1.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/31f7f8cd00fb8a45.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/732c056c-61f7-40bf-8d30-a2f7504cb6cc/floral-cluster-1.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "9c1c4418200a544d",
+      "kind": "image",
+      "name": "floral-cluster-2.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/9c1c4418200a544d.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/3076b205-a0c1-4f5d-a0ac-81b55fadb41a/floral-cluster-2.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "cb7a6b15686db7b9",
+      "kind": "image",
+      "name": "floral-cluster-3.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/cb7a6b15686db7b9.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/d5a649bc-253a-4a5d-a047-fb5efd005fc7/floral-cluster-3.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "0842bc3596f7632e",
+      "kind": "image",
+      "name": "timeline-ceremony-DV-yx3PQ.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/0842bc3596f7632e.png",
+      "url": "https://www.wooowinvites.com/assets/timeline-ceremony-DV-yx3PQ.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "3e9c69cb867b14ef",
+      "kind": "image",
+      "name": "timeline-dinner.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/3e9c69cb867b14ef.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/f37c4755-4a39-450c-8ad3-150171060dcb/timeline-dinner.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e49dc0cfa21fc9de",
+      "kind": "image",
+      "name": "timeline-party.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/e49dc0cfa21fc9de.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/c77c2520-9959-48da-b772-7eb15c35588f/timeline-party.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "14c3678b49f99a43",
+      "kind": "image",
+      "name": "dresscode-day0-1777301911029.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/14c3678b49f99a43.png",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/dresscode/98032531-8029-42fd-8ba2-3f50d3ab7f3a/dresscode-day0-1777301911029.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "5690510367828ada",
+      "kind": "image",
+      "name": "line-art-cake.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/5690510367828ada.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/4187b82c-f17a-4c61-a858-97a13daf7d12/line-art-cake.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "0ec3310c7c9e1b2b",
+      "kind": "image",
+      "name": "venue-day0-1774862606369.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/0ec3310c7c9e1b2b.png",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/venues/98032531-8029-42fd-8ba2-3f50d3ab7f3a/venue-day0-1774862606369.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8894ba1c7ef65f28",
+      "kind": "image",
+      "name": "accommodation-1777283919315-86vuj.jpg",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/8894ba1c7ef65f28.jpg",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/accommodation/98032531-8029-42fd-8ba2-3f50d3ab7f3a/accommodation-1777283919315-86vuj.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "f0296487a5b3a2d8",
+      "kind": "image",
+      "name": "line-art-champagne-OWqV10Oz.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/f0296487a5b3a2d8.png",
+      "url": "https://www.wooowinvites.com/assets/line-art-champagne-OWqV10Oz.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e17533d6d7986df9",
+      "kind": "image",
+      "name": "accommodation-1777283968454-dbuim.jfif",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/e17533d6d7986df9.jfif",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/accommodation/98032531-8029-42fd-8ba2-3f50d3ab7f3a/accommodation-1777283968454-dbuim.jfif"
+    },
+    {
+      "contentType": "image/png",
+      "id": "70acef414e065346",
+      "kind": "image",
+      "name": "menu-frame-overlay.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/70acef414e065346.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/ce77cf4a-9a3c-4cfb-b2da-88544d784d78/menu-frame-overlay.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e2d0a004cf567717",
+      "kind": "image",
+      "name": "gallery-1777313628826-n7kycf.jpg",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/e2d0a004cf567717.jpg",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/gallery/98032531-8029-42fd-8ba2-3f50d3ab7f3a/gallery-1777313628826-n7kycf.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4b29a2b275d8bd73",
+      "kind": "image",
+      "name": "icon-timeline.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/4b29a2b275d8bd73.png",
+      "url": "https://www.wooowinvites.com/__l5e/assets-v1/65cb2a85-ddab-41b3-8aef-35ff2d38e240/icon-timeline.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d6e46bf9012e56bb",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/d6e46bf9012e56bb.svg",
+      "url": "inline-svg:d6e46bf9012e56bb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "64dc26e4fa54af8c",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/64dc26e4fa54af8c.svg",
+      "url": "inline-svg:64dc26e4fa54af8c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0fef08045defbb1c",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/0fef08045defbb1c.svg",
+      "url": "inline-svg:0fef08045defbb1c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "082c7b8e59c77d93",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/082c7b8e59c77d93.svg",
+      "url": "inline-svg:082c7b8e59c77d93"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "46aee4e7c831e8fd",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/46aee4e7c831e8fd.svg",
+      "url": "inline-svg:46aee4e7c831e8fd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0dfad0cce3d71860",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/0dfad0cce3d71860.svg",
+      "url": "inline-svg:0dfad0cce3d71860"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d4724f5701e9acea",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/d4724f5701e9acea.svg",
+      "url": "inline-svg:d4724f5701e9acea"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6d0ba580d5ac49dc",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/6d0ba580d5ac49dc.svg",
+      "url": "inline-svg:6d0ba580d5ac49dc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9ca5bc47ea5c0344",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/9ca5bc47ea5c0344.svg",
+      "url": "inline-svg:9ca5bc47ea5c0344"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7627b572dd817496",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/7627b572dd817496.svg",
+      "url": "inline-svg:7627b572dd817496"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "473926478a1fc545",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/473926478a1fc545.svg",
+      "url": "inline-svg:473926478a1fc545"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cfb929765ba823bc",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/cfb929765ba823bc.svg",
+      "url": "inline-svg:cfb929765ba823bc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "46910d89ae90c74b",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/46910d89ae90c74b.svg",
+      "url": "inline-svg:46910d89ae90c74b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2fce998660e2b1c4",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/2fce998660e2b1c4.svg",
+      "url": "inline-svg:2fce998660e2b1c4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "aa923e2a67ee0d4a",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/aa923e2a67ee0d4a.svg",
+      "url": "inline-svg:aa923e2a67ee0d4a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "133defc0fe4c90c5",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/133defc0fe4c90c5.svg",
+      "url": "inline-svg:133defc0fe4c90c5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b43954ae076b7810",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/b43954ae076b7810.svg",
+      "url": "inline-svg:b43954ae076b7810"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "64606bc47818cf58",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/64606bc47818cf58.svg",
+      "url": "inline-svg:64606bc47818cf58"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "04281b7ae2a2f47a",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/04281b7ae2a2f47a.svg",
+      "url": "inline-svg:04281b7ae2a2f47a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "81a3851e6091404e",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/81a3851e6091404e.svg",
+      "url": "inline-svg:81a3851e6091404e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "da7312712aa4b7c4",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/da7312712aa4b7c4.svg",
+      "url": "inline-svg:da7312712aa4b7c4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "53a5e3dc79a51e84",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/53a5e3dc79a51e84.svg",
+      "url": "inline-svg:53a5e3dc79a51e84"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "45db5b463777899a",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/45db5b463777899a.svg",
+      "url": "inline-svg:45db5b463777899a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "142fec3aaf6afce3",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/142fec3aaf6afce3.svg",
+      "url": "inline-svg:142fec3aaf6afce3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "314acb75c25a6dc2",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/314acb75c25a6dc2.svg",
+      "url": "inline-svg:314acb75c25a6dc2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "beea7e11ca7ab32a",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/beea7e11ca7ab32a.svg",
+      "url": "inline-svg:beea7e11ca7ab32a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "684a74b257cc90fd",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/424328db-8198-49a0-80f6-a16a438ac429/684a74b257cc90fd.svg",
+      "url": "inline-svg:684a74b257cc90fd"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "1ce1a0541cbc4e6c",
+      "name": "11039610382",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at CSe (<anonymous>:1:42)\n    at <anonymous>:1:355",
+      "url": "https://www.google.com/pagead/1p-user-list/11039610382/?random=1795000293772&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412526~120420416~120469145~120469153~121191153~121246026~121246034~123322203~123785232&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=13&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1365566140.1795000294&uaa=x86&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.78%7CChromium%3B157.0.8103.78&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAogo4dYqMyMEyhCyU1lRNw6LS8YscQBV8wkDZMkczpiUSzU5H8nk-mIszcOcw_5LCA1w9lrRp_b-RKRtrFruTacn65RfkyIIC3CWfELX9rEYjAVUlFs30olx-nhbK-StILytM09DvBoY7DJf_h7aoxgHBhDOpuWbzT7VB_Ya_cybNHRP89sgRtV5VR28umQnBfMofvTiSDOZmKne59p7fRx7wv2aC374kPVOl3VfH4hu5ixHk-_AvJNDOlilXFtYW_zzwhuJwjRxtGbpUY8e0T6d8xPrqtXydvpugrAao1Cud&random=3831406352&rmt_tld=0&ipr=y"
+    },
+    {
+      "contentType": null,
+      "id": "c04bff252f2049f7",
+      "name": "11039610382",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at CSe (<anonymous>:1:42)\n    at <anonymous>:1:355",
+      "url": "https://www.google.co.in/pagead/1p-user-list/11039610382/?random=1795000293772&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412526~120420416~120469145~120469153~121191153~121246026~121246034~123322203~123785232&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=13&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1365566140.1795000294&uaa=x86&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.78%7CChromium%3B157.0.8103.78&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAogo4dYqMyMEyhCyU1lRNw6LS8YscQBV8wkDZMkczpiUSzU5H8nk-mIszcOcw_5LCA1w9lrRp_b-RKRtrFruTacn65RfkyIIC3CWfELX9rEYjAVUlFs30olx-nhbK-StILytM09DvBoY7DJf_h7aoxgHBhDOpuWbzT7VB_Ya_cybNHRP89sgRtV5VR28umQnBfMofvTiSDOZmKne59p7fRx7wv2aC374kPVOl3VfH4hu5ixHk-_AvJNDOlilXFtYW_zzwhuJwjRxtGbpUY8e0T6d8xPrqtXydvpugrAao1Cud&random=3831406352&rmt_tld=1&ipr=y"
+    },
+    {
+      "contentType": null,
+      "id": "9472b49a26e73ccd",
+      "name": "18143310610",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at CSe (<anonymous>:1:42)\n    at <anonymous>:1:355",
+      "url": "https://www.google.com/pagead/1p-user-list/18143310610/?random=1795000293702&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412526~120420416~120469145~120469153~121191153~121246026~121246034~123322203~123785232&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=13&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1365566140.1795000294&uaa=x86&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.78%7CChromium%3B157.0.8103.78&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAogo4dY4EcltBZj1nJU9WkMzgD6GvAdC83F-bc4c4zE5JfD0rPmpiFjPDit0uqaONjmhBCGWOrmNXpWpYxJT9oCZmoH_SrzXtNkN_N_es07zFJL96wM3uqQjP5ZLmP1HBIgtvLo6qwppc2TM5Ar81hmE5tfcQsqccuSKALCAm0ra5G5swV3cuVB44-60NLmqhjTxh5J7JXmGcr_XkXji-bPafUngihV3Ag0W1RJWWxxoWHL6UaF7SnbD8G7P8T6urcBQQalyA3ara5WSiNj_1xyYQ9POopXXXNmDxOh88zrRY&random=1491143960&rmt_tld=0&ipr=y"
+    },
+    {
+      "contentType": null,
+      "id": "cd5d4ead053f3eb0",
+      "name": "18143310610",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at CSe (<anonymous>:1:42)\n    at <anonymous>:1:355",
+      "url": "https://www.google.co.in/pagead/1p-user-list/18143310610/?random=1795000293702&cv=11&fst=1794999600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bg2v9237843982za208zd9237843982xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412526~120420416~120469145~120469153~121191153~121246026~121246034~123322203~123785232&u_w=1536&u_h=864&url=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rcb=13&frm=0&tiba=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1365566140.1795000294&uaa=x86&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.78%7CChromium%3B157.0.8103.78&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAogo4dY4EcltBZj1nJU9WkMzgD6GvAdC83F-bc4c4zE5JfD0rPmpiFjPDit0uqaONjmhBCGWOrmNXpWpYxJT9oCZmoH_SrzXtNkN_N_es07zFJL96wM3uqQjP5ZLmP1HBIgtvLo6qwppc2TM5Ar81hmE5tfcQsqccuSKALCAm0ra5G5swV3cuVB44-60NLmqhjTxh5J7JXmGcr_XkXji-bPafUngihV3Ag0W1RJWWxxoWHL6UaF7SnbD8G7P8T6urcBQQalyA3ara5WSiNj_1xyYQ9POopXXXNmDxOh88zrRY&random=1491143960&rmt_tld=1&ipr=y"
+    },
+    {
+      "contentType": "text/plain",
+      "id": "74498ea39d693d5e",
+      "name": "tr",
+      "reason": "Asset response type text/plain is not valid for image",
+      "url": "https://www.facebook.com/tr/?id=1458810709218875&ev=PageView&dl=https%3A%2F%2Fwww.wooowinvites.com%2Finvite%2Fdemo-86bfb2&rl=&if=false&ts=1795000294600&iw=false&sw=1536&sh=864&cud[external_id]=***_%23%23%23%23%23%23%23%23%23%23%23%23%23_******%23%23**&ncud[external_id]=***_%23%23%23%23%23%23%23%23%23%23%23%23%23_******%23%23**&ud[external_id]=ef5d1290fe44de88a48529081a16db68142bc2122016d328f78556dff1f25a8e&aud[external_id][0][v]=ef5d1290fe44de88a48529081a16db68142bc2122016d328f78556dff1f25a8e&aud[external_id][0][s]=0&v=2.9.441&r=stable&ec=0&o=4126&aems=0%3B0&fbp=fb.1.1795000294551.463934526523065522&eid=ob3_plugin-set_8c560f2305689b7775805c97a4103db2d3c970dc6056a6406ccd5ba4a0ed7a90&ler=empty&cdl=API_unavailable&pmd[title]=Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites&pmd[locale]=en&plt=1203.8999999910593&iss=1&ss=%7B%22page_description%22%3A%5B%7B%22rid%22%3A%221013003544480960%22%2C%22v%22%3A%5B%22Digital%20wedding%20invitations%20with%20animated%20themes%2C%20RSVP%20tracking%20%26%20multilingual%20support.%20Stunning%20invites%20for%20weddings%20%26%20events.%22%5D%7D%5D%2C%22author%22%3A%5B%7B%22rid%22%3A%221806347790401429%22%2C%22v%22%3A%5B%22wooowinvites%22%5D%7D%5D%2C%22entity_name%22%3A%5B%7B%22rid%22%3A%222150759092214509%22%2C%22v%22%3A%5B%22Digital%20Invitations%20%26%20RSVP%20Tracking%20%7C%20WooowInvites%22%5D%7D%5D%7D&imft=1&tz=330&it=1795000293490&coo=false&ap[currency]=EUR&ap[contents]=%5B%7B%22item_price%22%3A0%7D%5D&cf=1&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=ct2&expv2[6]=hf1&expv2[7]=pr0&expv2[8]=ot1&expv2[9]=hv1&expv2[10]=rh0&expv2[11]=ah0&expv2[12]=nv0&expv2[13]=oq0&rqm=GET"
+    },
+    {
+      "contentType": null,
+      "id": "72d1eb606a9b0da2",
+      "name": "envelope-floral-cream-baby-pink-1777193644197.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at CSe (<anonymous>:1:42)\n    at <anonymous>:1:355",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/envelope-floral-cream-baby-pink-1777193644197.png"
+    },
+    {
+      "contentType": null,
+      "id": "384a9115acc43911",
+      "name": "background-1774942596363.mov",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at CSe (<anonymous>:1:42)\n    at <anonymous>:1:355",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/background-1774942596363.mov"
+    },
+    {
+      "contentType": null,
+      "id": "35f72fc1086c3681",
+      "name": "opening-animation-1777312876430.mp4",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at CSe (<anonymous>:1:42)\n    at <anonymous>:1:355",
+      "url": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/opening-animation-1777312876430.mp4"
+    }
+  ]
+}

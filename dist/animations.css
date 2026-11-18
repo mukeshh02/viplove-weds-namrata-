@@ -1,0 +1,622 @@
+/* ==========================================================================
+   WEDDING INVITATION ANIMATIONS (animations.css)
+   Mobile-First (390px optimized), 60fps transform & opacity only
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   0. Reduced Motion Fallback
+   -------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+
+  /* ------------------------------------------------------------------------
+     1. Reusable Scroll Reveal Classes (IntersectionObserver Controlled)
+     ------------------------------------------------------------------------ */
+  :root {
+    --ease-romantic: cubic-bezier(0.22, 1, 0.36, 1);
+    --anim-duration-base: 0.8s;
+  }
+
+  /* Fade up */
+  .reveal {
+    opacity: 0;
+    transform: translateY(28px);
+    transition: opacity var(--anim-duration-base) var(--ease-romantic),
+                transform var(--anim-duration-base) var(--ease-romantic);
+    will-change: transform, opacity;
+  }
+  .reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Slide in left */
+  .reveal-left {
+    opacity: 0;
+    transform: translateX(-32px);
+    transition: opacity var(--anim-duration-base) var(--ease-romantic),
+                transform var(--anim-duration-base) var(--ease-romantic);
+    will-change: transform, opacity;
+  }
+  .reveal-left.active {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  /* Slide in right */
+  .reveal-right {
+    opacity: 0;
+    transform: translateX(32px);
+    transition: opacity var(--anim-duration-base) var(--ease-romantic),
+                transform var(--anim-duration-base) var(--ease-romantic);
+    will-change: transform, opacity;
+  }
+  .reveal-right.active {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  /* Pop / Scale in */
+  .pop {
+    opacity: 0;
+    transform: scale(0.85);
+    transition: opacity 0.6s var(--ease-romantic),
+                transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+    will-change: transform, opacity;
+  }
+  .pop.active {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  /* Float effect (continuous gentle hover) */
+  .float {
+    animation: gentleFloat 3.5s ease-in-out infinite alternate;
+  }
+  @keyframes gentleFloat {
+    0% { transform: translateY(0px); }
+    100% { transform: translateY(-7px); }
+  }
+
+  /* Pulse soft */
+  .pulse-soft {
+    animation: softPulse 2.8s ease-in-out infinite;
+  }
+  @keyframes softPulse {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.04); opacity: 0.9; }
+  }
+
+  /* Heartbeat */
+  .heartbeat {
+    display: inline-block;
+    animation: heartbeatPulse 1.8s ease-in-out infinite;
+    transform-origin: center;
+  }
+  @keyframes heartbeatPulse {
+    0%, 100% { transform: scale(1); }
+    14% { transform: scale(1.22); }
+    28% { transform: scale(1); }
+    42% { transform: scale(1.15); }
+    70% { transform: scale(1); }
+  }
+
+  /* Stagger utility delays */
+  .delay-1 { transition-delay: 0.1s !important; }
+  .delay-2 { transition-delay: 0.2s !important; }
+  .delay-3 { transition-delay: 0.3s !important; }
+  .delay-4 { transition-delay: 0.4s !important; }
+  .delay-5 { transition-delay: 0.5s !important; }
+  .delay-6 { transition-delay: 0.6s !important; }
+
+  /* ------------------------------------------------------------------------
+     2. Extra Touches: Scroll Progress Bar & Floating Petals / Tap Sparkles
+     ------------------------------------------------------------------------ */
+  #scroll-progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background: #5cadd6; /* Sky-blue theme accent */
+    z-index: 1000;
+    width: 0%;
+    pointer-events: none;
+    transition: width 0.1s ease-out;
+  }
+
+  /* Hero tap spawn hearts/petals */
+  .tap-particle {
+    position: absolute;
+    pointer-events: none;
+    z-index: 999;
+    user-select: none;
+    animation: floatUpFade 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  }
+  @keyframes floatUpFade {
+    0% {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(0.6) rotate(0deg);
+    }
+    100% {
+      opacity: 0;
+      transform: translate(calc(-50% + var(--tx, 0px)), calc(-50% - 70px)) scale(1.15) rotate(var(--rot, 20deg));
+    }
+  }
+
+  /* Floating petals drifting across hero screen */
+  .hero-petal-container {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    overflow: hidden;
+    z-index: 10;
+  }
+  .drifting-petal {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: radial-gradient(circle, rgba(255, 192, 203, 0.75) 0%, rgba(255, 230, 235, 0.3) 80%);
+    border-radius: 12px 2px 12px 2px;
+    opacity: 0;
+    animation: petalDrift 9s linear infinite;
+  }
+  @keyframes petalDrift {
+    0% {
+      transform: translate(0, -20px) rotate(0deg);
+      opacity: 0;
+    }
+    15% { opacity: 0.75; }
+    85% { opacity: 0.75; }
+    100% {
+      transform: translate(60px, 750px) rotate(360deg);
+      opacity: 0;
+    }
+  }
+
+  /* ------------------------------------------------------------------------
+     3. Section 1: Hero (Arch with palms, handwriting-style reveal, Ken Burns)
+     ------------------------------------------------------------------------ */
+  .hero-ken-burns {
+    animation: kenBurnsZoom 18s ease-in-out infinite alternate !important;
+    transform-origin: center center;
+  }
+  @keyframes kenBurnsZoom {
+    0% { transform: scale(1); }
+    100% { transform: scale(1.08); }
+  }
+
+  .hero-name-isabella {
+    opacity: 0;
+    transform: translateY(18px) rotate(-1.5deg);
+    transition: opacity 1s var(--ease-romantic), transform 1s var(--ease-romantic);
+  }
+  .hero-name-isabella.revealed {
+    opacity: 1;
+    transform: translateY(0) rotate(0deg);
+  }
+
+  .hero-name-and {
+    opacity: 0;
+    transform: scale(0.85);
+    transition: opacity 0.8s var(--ease-romantic) 0.35s, transform 0.8s var(--ease-romantic) 0.35s;
+  }
+  .hero-name-and.revealed {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  .hero-name-lucas {
+    opacity: 0;
+    transform: translateY(18px) rotate(1.5deg);
+    transition: opacity 1s var(--ease-romantic) 0.7s, transform 1s var(--ease-romantic) 0.7s;
+  }
+  .hero-name-lucas.revealed {
+    opacity: 1;
+    transform: translateY(0) rotate(0deg);
+  }
+
+  .hero-subtitle {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.8s var(--ease-romantic) 0.9s, transform 0.8s var(--ease-romantic) 0.9s;
+  }
+  .hero-subtitle.revealed {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .hero-date-badge {
+    opacity: 0;
+    transform: translateY(14px);
+    transition: opacity 0.9s var(--ease-romantic) 1.1s, transform 0.9s var(--ease-romantic) 1.1s;
+  }
+  .hero-date-badge.revealed {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .mouse-bounce {
+    animation: mouseBounce 2.2s infinite;
+  }
+  @keyframes mouseBounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-8px); }
+    60% { transform: translateY(-4px); }
+  }
+
+  /* ------------------------------------------------------------------------
+     4. Section 2: Photo Carousel
+     ------------------------------------------------------------------------ */
+  .carousel-slide-img {
+    transition: transform 0.6s var(--ease-romantic), opacity 0.6s var(--ease-romantic);
+  }
+  .carousel-dot {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  .carousel-dot.active {
+    animation: dotPulse 1.8s infinite;
+  }
+  @keyframes dotPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.3); }
+  }
+  .carousel-nav-btn {
+    transition: transform 0.25s var(--ease-romantic);
+  }
+  .carousel-nav-btn:hover {
+    transform: translateY(-50%) scale(1.1);
+  }
+  .carousel-nav-btn:active {
+    transform: translateY(-50%) scale(0.92);
+  }
+
+  /* ------------------------------------------------------------------------
+     5. Section 3: You are invited to Miami (Destination)
+     ------------------------------------------------------------------------ */
+  .miami-letter {
+    display: inline-block;
+    opacity: 0;
+    transform: translateY(20px) scale(0.8);
+    transition: opacity 0.6s var(--ease-romantic), transform 0.6s var(--ease-romantic);
+  }
+  .miami-letter.active {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  /* ------------------------------------------------------------------------
+     6. Section 4: Boarding Pass
+     ------------------------------------------------------------------------ */
+  .boarding-pass-card {
+    opacity: 0;
+    transform: translateY(35px) rotate(-1.5deg);
+    transition: opacity 0.9s var(--ease-romantic), transform 0.9s var(--ease-romantic);
+  }
+  .boarding-pass-card.active {
+    opacity: 1;
+    transform: translateY(0) rotate(0deg);
+  }
+
+  .plane-fly-anim {
+    display: inline-block;
+    animation: planeGlide 3s ease-in-out infinite;
+  }
+  @keyframes planeGlide {
+    0% { transform: translateX(-8px) translateY(0); }
+    50% { transform: translateX(10px) translateY(-3px); }
+    100% { transform: translateX(-8px) translateY(0); }
+  }
+
+  .barcode-sweep-container {
+    position: relative;
+    overflow: hidden;
+  }
+  .barcode-sweep-container::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 60%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.75), transparent);
+    animation: barcodeLightSweep 3.5s ease-in-out infinite;
+  }
+  @keyframes barcodeLightSweep {
+    0% { left: -100%; }
+    50%, 100% { left: 160%; }
+  }
+
+  .flight-value-flip {
+    display: inline-block;
+    transition: transform 0.5s var(--ease-romantic);
+  }
+  .boarding-pass-card.active .flight-value-flip {
+    animation: valueFlip 0.8s var(--ease-romantic) both;
+  }
+  @keyframes valueFlip {
+    0% { opacity: 0; transform: perspective(400px) rotateX(-90deg); }
+    100% { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+  }
+
+  /* ------------------------------------------------------------------------
+     7. Section 5: Things to Do & FAQ
+     ------------------------------------------------------------------------ */
+  .icon-bounce {
+    display: inline-block;
+    transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  .icon-bounce:hover,
+  .active .icon-bounce {
+    animation: iconBounceAnim 0.7s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  @keyframes iconBounceAnim {
+    0% { transform: scale(1); }
+    40% { transform: scale(1.22) translateY(-4px); }
+    100% { transform: scale(1) translateY(0); }
+  }
+
+  .faq-chevron {
+    transition: transform 0.35s var(--ease-romantic);
+  }
+  .faq-answer-wrapper {
+    transition: max-height 0.4s var(--ease-romantic), opacity 0.35s ease;
+  }
+
+  /* ------------------------------------------------------------------------
+     8. Section 6: Our Story
+     ------------------------------------------------------------------------ */
+  .story-line {
+    opacity: 0;
+    transform: translateY(14px);
+    transition: opacity 0.7s var(--ease-romantic), transform 0.7s var(--ease-romantic);
+  }
+  .story-line.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* ------------------------------------------------------------------------
+     9. Section 7: Accommodation
+     ------------------------------------------------------------------------ */
+  .hotel-card {
+    transition: transform 0.4s var(--ease-romantic), box-shadow 0.4s var(--ease-romantic);
+  }
+  .hotel-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 32px -8px rgba(0, 0, 0, 0.12);
+  }
+  .hotel-card img {
+    transition: transform 0.7s var(--ease-romantic);
+  }
+  .hotel-card:hover img {
+    transform: scale(1.04);
+  }
+
+  /* ------------------------------------------------------------------------
+     10. Section 8: Venue & Dress Code
+     ------------------------------------------------------------------------ */
+  .pulse-btn {
+    animation: pulseGlow 2.4s infinite;
+  }
+  @keyframes pulseGlow {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(92, 173, 214, 0.4); transform: scale(1); }
+    50% { box-shadow: 0 0 0 8px rgba(92, 173, 214, 0); transform: scale(1.02); }
+  }
+
+  .pop-swatch {
+    opacity: 0;
+    transform: scale(0.6);
+    transition: opacity 0.5s var(--ease-romantic), transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  .pop-swatch.active {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  /* ------------------------------------------------------------------------
+     11. Section 9: Schedule Timeline
+     ------------------------------------------------------------------------ */
+  .timeline-vine-path {
+    transition: stroke-dashoffset 0.15s ease-out;
+  }
+  .timeline-sparkle {
+    display: inline-block;
+    animation: ringSparkle 2.6s ease-in-out infinite;
+  }
+  @keyframes ringSparkle {
+    0%, 100% { filter: drop-shadow(0 0 0px gold); transform: scale(1); }
+    50% { filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.7)); transform: scale(1.08); }
+  }
+  .disco-shimmer {
+    display: inline-block;
+    animation: discoShimmerAnim 3s ease-in-out infinite alternate;
+  }
+  @keyframes discoShimmerAnim {
+    0% { transform: rotate(-6deg) scale(1); filter: brightness(1); }
+    50% { transform: rotate(6deg) scale(1.04); filter: brightness(1.15); }
+    100% { transform: rotate(-6deg) scale(1); filter: brightness(1); }
+  }
+
+  /* ------------------------------------------------------------------------
+     12. Section 10: Countdown
+     ------------------------------------------------------------------------ */
+  .countdown-glass-box {
+    animation: glassFloat 4s ease-in-out infinite alternate;
+  }
+  .countdown-glass-box:nth-child(2) { animation-delay: 0.4s; }
+  .countdown-glass-box:nth-child(3) { animation-delay: 0.8s; }
+  .countdown-glass-box:nth-child(4) { animation-delay: 1.2s; }
+  @keyframes glassFloat {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-4px); }
+  }
+
+  .number-flip-enter {
+    animation: numFlip 0.4s var(--ease-romantic);
+  }
+  @keyframes numFlip {
+    0% { opacity: 0; transform: translateY(-8px) scale(0.9); }
+    100% { opacity: 1; transform: translateY(0) scale(1); }
+  }
+
+  /* ------------------------------------------------------------------------
+     13. Section 11: Menu
+     ------------------------------------------------------------------------ */
+  .bow-wiggle {
+    display: inline-block;
+    animation: bowWiggleAnim 3s ease-in-out infinite;
+    transform-origin: center;
+  }
+  @keyframes bowWiggleAnim {
+    0%, 80%, 100% { transform: rotate(0deg); }
+    85% { transform: rotate(-6deg); }
+    90% { transform: rotate(6deg); }
+    95% { transform: rotate(-3deg); }
+  }
+
+  /* ------------------------------------------------------------------------
+     14. Section 12: Gift List
+     ------------------------------------------------------------------------ */
+  .gift-wiggle {
+    display: inline-block;
+    animation: giftWiggleAnim 2.8s ease-in-out infinite;
+    transform-origin: center bottom;
+  }
+  @keyframes giftWiggleAnim {
+    0%, 75%, 100% { transform: rotate(0deg) scale(1); }
+    80% { transform: rotate(-7deg) scale(1.06); }
+    85% { transform: rotate(7deg) scale(1.06); }
+    90% { transform: rotate(-4deg) scale(1.03); }
+    95% { transform: rotate(2deg) scale(1.01); }
+  }
+
+  .amazon-shimmer-btn {
+    position: relative;
+    overflow: hidden;
+  }
+  .amazon-shimmer-btn::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 60%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    animation: btnShimmerSweep 3s infinite;
+  }
+  @keyframes btnShimmerSweep {
+    0% { left: -100%; }
+    40%, 100% { left: 160%; }
+  }
+
+  /* ------------------------------------------------------------------------
+     15. Section 13: Photo Gallery (Champagne Clink)
+     ------------------------------------------------------------------------ */
+  .champagne-clink {
+    animation: clinkTilt 3.2s ease-in-out infinite;
+    transform-origin: center bottom;
+  }
+  @keyframes clinkTilt {
+    0%, 70%, 100% { transform: rotate(0deg); }
+    75% { transform: rotate(-4deg); }
+    80% { transform: rotate(5deg); }
+    85% { transform: rotate(-2deg); }
+  }
+
+  /* ------------------------------------------------------------------------
+     16. Section 14: RSVP Form
+     ------------------------------------------------------------------------ */
+  .rsvp-input {
+    transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+  }
+  .rsvp-input:focus {
+    border-color: #5cadd6 !important;
+    box-shadow: 0 0 0 3px rgba(92, 173, 214, 0.25) !important;
+    transform: translateY(-1px);
+  }
+
+  .btn-ripple {
+    position: relative;
+    overflow: hidden;
+  }
+  .btn-ripple::after {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.35);
+    width: 100px;
+    height: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    transform: scale(0.2);
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+    pointer-events: none;
+  }
+  .btn-ripple:active::after {
+    opacity: 1;
+    transform: scale(2.8);
+    transition: 0s;
+  }
+
+  /* Confetti Canvas */
+  #confetti-canvas {
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    z-index: 99999;
+  }
+
+  /* ------------------------------------------------------------------------
+     17. Wildflower Decorations (Side Bouquets)
+     ------------------------------------------------------------------------ */
+  .wildflower-sway-left {
+    animation: wildflowerSwayLeft 6s ease-in-out infinite alternate;
+    transform-origin: top left;
+  }
+  .wildflower-sway-right {
+    animation: wildflowerSwayRight 6s ease-in-out infinite alternate;
+    transform-origin: top right;
+  }
+  @keyframes wildflowerSwayLeft {
+    0% { transform: rotate(-3deg); }
+    100% { transform: rotate(3deg); }
+  }
+  @keyframes wildflowerSwayRight {
+    0% { transform: scaleX(-1) rotate(-3deg); }
+    100% { transform: scaleX(-1) rotate(3deg); }
+  }
+
+  /* ------------------------------------------------------------------------
+     18. Section Dividers (Line • Line)
+     ------------------------------------------------------------------------ */
+  .divider-line {
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 0.8s var(--ease-romantic);
+  }
+  .divider-line.active {
+    transform: scaleX(1);
+  }
+  .divider-dot {
+    transform: scale(0);
+    transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) 0.3s;
+  }
+  .divider-dot.active {
+    transform: scale(1);
+  }
+}

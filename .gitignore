@@ -1,0 +1,31 @@
+# Test images and scraper temporary files
+scratch/
+scraped_data/
+assets_downloaded/
+dist/index_hindi.html
+
+# One-off scraper debug scripts
+scratch_*.py
+test_*.py
+check_*.py
+verify_*.py
+capture_*.py
+clean_assets.py
+compare_sites.py
+copy_assets.py
+copy_fonts.py
+download_*.py
+extract_*.py
+extracted_*
+fix_*.py
+generate_final_site.py
+scrape_complete.py
+build_perfect_clone.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store

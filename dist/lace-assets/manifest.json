@@ -1,0 +1,445 @@
+{
+  "assets": [
+    {
+      "contentType": "image/png",
+      "id": "ac0e78b84efa441d",
+      "kind": "image",
+      "name": "banquet-breeze-map.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/ac0e78b84efa441d.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/fc8e6ccb-44ae-45b5-996c-2c7387baadf1/banquet-breeze-map.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "db9da8c2611570c4",
+      "kind": "image",
+      "name": "tulle-texture-burgundy.webp",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/db9da8c2611570c4.webp",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/c7e4ef86-25a1-4b7b-8e8a-816f0f74a283/tulle-texture-burgundy.webp"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "26499dc351428fe7",
+      "kind": "font",
+      "name": "ballet-clean.woff2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/26499dc351428fe7.woff2",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/0f4deaf7-8451-446b-933b-570a08da52ce/ballet-clean.woff2"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "910dde6be297f1f7",
+      "kind": "image",
+      "name": "bellagio-2-poster.jpg",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/910dde6be297f1f7.jpg",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/1dae52c0-dcb3-4809-bb6d-465290c83bb9/bellagio-2-poster.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "82d1d971fc38fde9",
+      "kind": "image",
+      "name": "pearl-garland-2-strand-0.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/82d1d971fc38fde9.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/880c02e2-cbce-4808-a78e-6a4430a5c1e1/pearl-garland-2-strand-0.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "630828a93d5ba873",
+      "kind": "image",
+      "name": "pearl-garland-2-base.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/630828a93d5ba873.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/8f395744-9b48-4253-9c4e-41a9025f96f1/pearl-garland-2-base.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ff675d398fd53da9",
+      "kind": "image",
+      "name": "pearl-garland-2-strand-2.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/ff675d398fd53da9.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/b9693569-8d9a-4029-b535-e76f1fc2b798/pearl-garland-2-strand-2.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "5c0bd03a66e347a1",
+      "kind": "image",
+      "name": "pearl-garland-2-strand-1.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/5c0bd03a66e347a1.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/db7f6020-b3a9-4026-896e-6b6b4d6ffd76/pearl-garland-2-strand-1.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "0caa0189bb5613c3",
+      "kind": "image",
+      "name": "pearl-garland-2-strand-3.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/0caa0189bb5613c3.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/c1eeba31-65a7-448b-a167-cc9ef56c40be/pearl-garland-2-strand-3.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "68eee3f8b796bbf3",
+      "kind": "image",
+      "name": "pearl-garland-2-strand-4.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/68eee3f8b796bbf3.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/1db6bc1e-2e40-4e40-a48e-a24038e79d69/pearl-garland-2-strand-4.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "945cea16325b8393",
+      "kind": "image",
+      "name": "welcome-still.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/945cea16325b8393.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/95f610fc-27ba-4ca6-ba9a-ee08c58eb851/welcome-still.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "5ad787f7e4dc3c95",
+      "kind": "image",
+      "name": "welcome-details.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/5ad787f7e4dc3c95.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/9d46dea2-42d0-4612-82b2-3c0412642f87/welcome-details.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "cccd39f33838a4b5",
+      "kind": "image",
+      "name": "cocktail-glass-left.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/cccd39f33838a4b5.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/4e9e033f-66f8-40db-aa10-c66abf5fc8b0/cocktail-glass-left.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4b4e0fa0ed5eb307",
+      "kind": "image",
+      "name": "cocktail-glass-right.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/4b4e0fa0ed5eb307.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/3bf9bbcc-a011-4d33-89dc-15f9bdb29e5c/cocktail-glass-right.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "98076668bf194cff",
+      "kind": "image",
+      "name": "dancing-details.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/98076668bf194cff.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/3678bf86-8965-45b5-9b2f-04465f0f3330/dancing-details.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "80e8726fdc921d42",
+      "kind": "image",
+      "name": "dancing-still.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/80e8726fdc921d42.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/7db0a702-ff9d-41ae-b928-277c5a46ae55/dancing-still.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "110ca3f910825765",
+      "kind": "image",
+      "name": "banquet-table.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/110ca3f910825765.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/9ed4086a-4630-44ed-9172-d0cb2ea90e92/banquet-table.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2588fa3988a01fca",
+      "kind": "image",
+      "name": "villa-illustration-thick.svg",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/2588fa3988a01fca.svg",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/049bdf72-7555-48c2-987a-b01a7194ed6b/villa-illustration-thick.svg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "2cde7e3c5e19980f",
+      "kind": "image",
+      "name": "countdown-bows-ivory.png",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/2cde7e3c5e19980f.png",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/012fbe1b-6f89-4376-98b4-7f7c27aee4d9/countdown-bows-ivory.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d225e6dfcf727397",
+      "kind": "image",
+      "name": "lace-border-white.webp",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/d225e6dfcf727397.webp",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/087d9791-fe00-470f-9b90-429c6eb6ba65/lace-border-white.webp"
+    },
+    {
+      "contentType": "video/mp4",
+      "id": "5b9e0da05d3c5938",
+      "kind": "video",
+      "name": "bellagio-2-opt.mp4",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/5b9e0da05d3c5938.mp4",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/4dbea26a-9713-4652-8484-2da4bbcf5067/bellagio-2-opt.mp4"
+    },
+    {
+      "contentType": "video/mp4",
+      "id": "976d1548e133e7e2",
+      "kind": "video",
+      "name": "hero-bg.mp4",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/976d1548e133e7e2.mp4",
+      "url": "https://plantillalace.thedigitalyes.com/__l5e/assets-v1/a202a22b-4d43-4bff-8257-3d6d4661eb6e/hero-bg.mp4"
+    },
+    {
+      "contentType": "image/vnd.microsoft.icon",
+      "id": "8c4a0c89a8a9a925",
+      "kind": "image",
+      "name": "favicon.ico",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/8c4a0c89a8a9a925.ico",
+      "url": "https://plantillalace.thedigitalyes.com/favicon.ico"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "921aaea8ae9fc0d6",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/921aaea8ae9fc0d6.svg",
+      "url": "inline-svg:921aaea8ae9fc0d6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f90b5bd1c6d09611",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/f90b5bd1c6d09611.svg",
+      "url": "inline-svg:f90b5bd1c6d09611"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "157c9d94442360b4",
+      "kind": "image",
+      "name": "Fountain with falling water drops",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/157c9d94442360b4.svg",
+      "url": "inline-svg:157c9d94442360b4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7845a94b9549b4d7",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/7845a94b9549b4d7.svg",
+      "url": "inline-svg:7845a94b9549b4d7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "efbdff047e221061",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/efbdff047e221061.svg",
+      "url": "inline-svg:efbdff047e221061"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "481f6e525dc82f9b",
+      "kind": "image",
+      "name": "Two cocktail glasses toasting",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/481f6e525dc82f9b.svg",
+      "url": "inline-svg:481f6e525dc82f9b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ca2ccc086a57a9d1",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/ca2ccc086a57a9d1.svg",
+      "url": "inline-svg:ca2ccc086a57a9d1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d0c05e8cd1f7153a",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/d0c05e8cd1f7153a.svg",
+      "url": "inline-svg:d0c05e8cd1f7153a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "35c703ef7646477b",
+      "kind": "image",
+      "name": "Disco ball with twinkling rays",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/35c703ef7646477b.svg",
+      "url": "inline-svg:35c703ef7646477b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "05b51e490777c6bd",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/05b51e490777c6bd.svg",
+      "url": "inline-svg:05b51e490777c6bd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4097675dae436f5f",
+      "kind": "image",
+      "name": "Banquet table illustration",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/4097675dae436f5f.svg",
+      "url": "inline-svg:4097675dae436f5f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1990cda631ad2e23",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/1990cda631ad2e23.svg",
+      "url": "inline-svg:1990cda631ad2e23"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bef3f4a8ea4d2354",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/bef3f4a8ea4d2354.svg",
+      "url": "inline-svg:bef3f4a8ea4d2354"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "54c55e01e4f6f7fd",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/54c55e01e4f6f7fd.svg",
+      "url": "inline-svg:54c55e01e4f6f7fd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "127863e3c888c056",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/127863e3c888c056.svg",
+      "url": "inline-svg:127863e3c888c056"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "242aeefee409745f",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/242aeefee409745f.svg",
+      "url": "inline-svg:242aeefee409745f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "907e3654aa265b86",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/907e3654aa265b86.svg",
+      "url": "inline-svg:907e3654aa265b86"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9558f73e5c4735e3",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/9558f73e5c4735e3.svg",
+      "url": "inline-svg:9558f73e5c4735e3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1cb7dd0627de5a0d",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/1cb7dd0627de5a0d.svg",
+      "url": "inline-svg:1cb7dd0627de5a0d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ef1171ee6b54cb26",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/ef1171ee6b54cb26.svg",
+      "url": "inline-svg:ef1171ee6b54cb26"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a69af01970d5700c",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/a69af01970d5700c.svg",
+      "url": "inline-svg:a69af01970d5700c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "312a347e31282b15",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/312a347e31282b15.svg",
+      "url": "inline-svg:312a347e31282b15"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "03894a7b2acb15b0",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/03894a7b2acb15b0.svg",
+      "url": "inline-svg:03894a7b2acb15b0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d2afc350ac12a4c0",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/d2afc350ac12a4c0.svg",
+      "url": "inline-svg:d2afc350ac12a4c0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8987a8ff5510049d",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/8987a8ff5510049d.svg",
+      "url": "inline-svg:8987a8ff5510049d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ae4cb51d40490ac0",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/ae4cb51d40490ac0.svg",
+      "url": "inline-svg:ae4cb51d40490ac0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c6536533a032bfb6",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/c6536533a032bfb6.svg",
+      "url": "inline-svg:c6536533a032bfb6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "61fafe21245b8f73",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/61fafe21245b8f73.svg",
+      "url": "inline-svg:61fafe21245b8f73"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "096fa835867cfccd",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/096fa835867cfccd.svg",
+      "url": "inline-svg:096fa835867cfccd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c91405e6361c0f70",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/c91405e6361c0f70.svg",
+      "url": "inline-svg:c91405e6361c0f70"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d07d5f9e333e8c1b",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/d07d5f9e333e8c1b.svg",
+      "url": "inline-svg:d07d5f9e333e8c1b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b877f3786921edc1",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "C:\\Users\\Mukesh\\AppData\\Local\\Temp/browser-use/assets/c34a378f-b89f-4553-930a-1b98f4ae3cf1/b877f3786921edc1.svg",
+      "url": "inline-svg:b877f3786921edc1"
+    }
+  ],
+  "failures": []
+}
