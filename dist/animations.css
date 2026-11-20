@@ -17,6 +17,73 @@
   }
 }
 
+/* Reference demo motion: one-time element/text reveals only. */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal,
+  .reveal-left,
+  .reveal-right,
+  .pop,
+  .boarding-pass-card,
+  .divider-line,
+  .divider-dot,
+  [data-reveal-group] {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+
+  .float,
+  .pulse-soft,
+  .heartbeat,
+  .hero-ken-burns,
+  .mouse-bounce,
+  .plane-glide,
+  .icon-bounce,
+  .ring-sparkle,
+  .disco-shimmer,
+  .bow-wiggle,
+  .gift-wiggle,
+  .champagne-clink,
+  .amazon-shimmer-btn,
+  .wildflower-sway-left,
+  .wildflower-sway-right,
+  .countdown-glass-box {
+    animation: none !important;
+  }
+
+  #scroll-progress-bar,
+  .hero-petal-container,
+  #confetti-canvas {
+    display: none !important;
+  }
+
+  .reference-reveal {
+    opacity: 0 !important;
+    transform: translateY(24px) !important;
+    transition:
+      opacity 0.7s ease-out var(--reveal-delay, 0s),
+      transform 0.7s cubic-bezier(0.22, 1, 0.36, 1) var(--reveal-delay, 0s) !important;
+    will-change: opacity, transform;
+  }
+
+  .reference-reveal.reference-reveal-scale {
+    transform: scale(0.8) !important;
+  }
+
+  .reference-reveal.reference-reveal-left {
+    transform: translateX(-40px) !important;
+  }
+
+  .reference-reveal.reference-reveal-right {
+    transform: translateX(40px) !important;
+  }
+
+  .reference-reveal.is-visible {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
 
   /* ------------------------------------------------------------------------
@@ -618,5 +685,14 @@
   }
   .divider-dot.active {
     transform: scale(1);
+  }
+}
+
+/* No looping/decorative motion; reference-style reveals use transitions above. */
+@media (prefers-reduced-motion: no-preference) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
   }
 }

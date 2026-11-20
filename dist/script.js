@@ -140,7 +140,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const targetDate = new Date("2026-12-10T19:30:00+05:30").getTime();
   const countdownEl = document.querySelector('[data-demo-block="countdown"]');
   if (countdownEl) {
-    const valueSpans = countdownEl.querySelectorAll('.w-\\[72px\\] span, .font-display.text-3xl');
+    const valueSpans = countdownEl.querySelectorAll('.countdown-glass-box > span');
     function updateCountdown() {
       const now = new Date().getTime();
       const distance = Math.max(0, targetDate - now);
@@ -179,8 +179,8 @@ document.addEventListener("DOMContentLoaded", () => {
         tabs.forEach((t, i) => {
           t.setAttribute("aria-selected", "false");
           t.setAttribute("data-state", "inactive");
-          t.style.backgroundColor = "transparent";
-          t.style.color = "rgb(33, 30, 36)";
+          t.style.backgroundColor = "#FFFFFF";
+          t.style.color = "#26432A";
           if (panels[i]) {
             panels[i].style.display = "none";
             panels[i].setAttribute("data-state", "inactive");
@@ -189,8 +189,8 @@ document.addEventListener("DOMContentLoaded", () => {
         });
         tab.setAttribute("aria-selected", "true");
         tab.setAttribute("data-state", "active");
-        tab.style.backgroundColor = "rgb(92, 173, 214)";
-        tab.style.color = "rgb(33, 30, 36)";
+        tab.style.backgroundColor = "#436A48";
+        tab.style.color = "#FFFFFF";
         if (panels[idx]) {
           panels[idx].style.display = "block";
           panels[idx].removeAttribute("hidden");
@@ -214,8 +214,8 @@ document.addEventListener("DOMContentLoaded", () => {
         tabs.forEach((t, i) => {
           t.setAttribute("aria-selected", "false");
           t.setAttribute("data-state", "inactive");
-          t.style.backgroundColor = "transparent";
-          t.style.color = "rgb(33, 30, 36)";
+          t.style.backgroundColor = "#FFFFFF";
+          t.style.color = "#26432A";
           if (panels[i]) {
             panels[i].style.display = "none";
             panels[i].setAttribute("data-state", "inactive");
@@ -224,8 +224,8 @@ document.addEventListener("DOMContentLoaded", () => {
         });
         tab.setAttribute("aria-selected", "true");
         tab.setAttribute("data-state", "active");
-        tab.style.backgroundColor = "rgb(92, 173, 214)";
-        tab.style.color = "rgb(33, 30, 36)";
+        tab.style.backgroundColor = "#436A48";
+        tab.style.color = "#FFFFFF";
         if (panels[idx]) {
           panels[idx].style.display = "block";
           panels[idx].removeAttribute("hidden");
