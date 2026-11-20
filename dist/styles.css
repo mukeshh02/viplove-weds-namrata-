@@ -395,3 +395,16 @@ svg g path[stroke="#3d4f28"] {
   .pdf-event { grid-template-columns: 1fr; gap: .3rem; }
   .pdf-family-card p, .pdf-relatives p, .pdf-sender p { font-size: 1.08rem; }
 }
+
+/* Defensive: Hide template order CTA banner on mobile and desktop */
+.demo-order-cta,
+[href*="order?package="],
+[class*="demo-order"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  height: 0 !important;
+  max-height: 0 !important;
+  overflow: hidden !important;
+}
