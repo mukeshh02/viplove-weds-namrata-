@@ -441,7 +441,7 @@ document.addEventListener("DOMContentLoaded", () => {
     btn.style.cursor = 'pointer';
     btn.addEventListener('click', (e) => {
       e.preventDefault();
-      window.open('https://www.google.com/maps/search/?api=1&query=Royal+Palace+Rajnandgaon+Chhattisgarh', '_blank');
+      window.open('https://www.google.com/maps/search/rajnandgaon+royal+palace/@21.1005625,81.0641406,14z?entry=s&sa=X&ved=1t%3A199789', '_blank');
     });
   });
 
