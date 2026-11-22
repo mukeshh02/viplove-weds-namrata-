@@ -44,7 +44,29 @@ document.addEventListener("DOMContentLoaded", () => {
         iconOff.classList.remove("hidden");
       }
     }
+    // The visible floating control is separate from the legacy music button.
+    // Keep its icon and accessible label aligned with the actual audio state.
+    if (origSoundBtn && origSoundBtn !== soundBtn) {
+      origSoundBtn.setAttribute("aria-label", playing ? "Mute music" : "Play music");
+      origSoundBtn.style.overflow = "hidden";
+      origSoundBtn.innerHTML = playing
+        ? '<svg class="lucide lucide-volume2 w-6 h-6" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" aria-hidden="true"><path d="M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z"></path><path d="M16 9a5 5 0 0 1 0 6"></path><path d="M19.364 18.364a9 9 0 0 0 0-12.728"></path></svg>'
+        : '<svg class="w-6 h-6" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3 9v6h4l5 5V4L7 9H3z"></path><path d="M14 7.97v2.21l2.45 2.45c.03-.2.05-.42.05-.63 0-1.77-1.02-3.29-2.5-4.03z"></path><path d="M17.06 7.97A5.49 5.49 0 0 1 19 12c0 .94-.2 1.82-.54 2.64l1.51 1.51A8.93 8.93 0 0 0 21 12c0-2.76-1.61-5.14-3.94-6.27v2.24z"></path><path d="M2 2l20 20" fill="none" stroke="currentColor" stroke-width="3.4"></path></svg>';
+    }
   }
+
+  updateSoundIcons(false);
+
+  // Modern browsers allow sound only after a user gesture. Start the invitation
+  // music on its first opening interaction, including pages without an envelope.
+  let musicStartedByInvite = false;
+  function startMusicOnInviteOpen(event) {
+    if (musicStartedByInvite || (origSoundBtn && origSoundBtn.contains(event.target))) return;
+    musicStartedByInvite = true;
+    setAudioPlaying(true);
+    document.removeEventListener("pointerdown", startMusicOnInviteOpen, true);
+  }
+  document.addEventListener("pointerdown", startMusicOnInviteOpen, true);
 
   // 2. Envelope Tap to Open (First Page -> Second Page Transition)
   if (envelopeCover) {
@@ -61,6 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
         envelopeVideo.play().catch(() => {});
       }
       setAudioPlaying(true);
+      musicStartedByInvite = true;
 
       // Play opening animation (2.4s), then reveal second page
       setTimeout(() => {

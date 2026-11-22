@@ -696,3 +696,9 @@
     animation: none !important;
   }
 }
+/* The invitation is Hindi-only, so hide the language selector on every layout. */
+[aria-label="Change language"] { display: none !important; }
+
+/* Keep the music control out of the envelope opening screen. */
+body.envelope-active [aria-label="Mute music"],
+body.envelope-active [aria-label="Play music"] { display: none !important; }
