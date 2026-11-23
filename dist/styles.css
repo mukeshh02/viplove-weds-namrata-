@@ -352,6 +352,10 @@ h1, h2, h3, .font-display {
   font-family: 'Tiro Devanagari Hindi', 'Noto Serif Devanagari', serif !important;
   line-height: 1.95; font-size: 1.15rem; color: #1c1917; font-weight: 500; 
 }
+.pdf-family-card .bride-mother-line {
+  font-family: 'Mukta', sans-serif !important;
+  font-weight: 600;
+}
 .pdf-sang { 
   text-align: center; color: #26432A; font-size: 1.85rem; font-weight: 800; margin: 1.25rem 0; 
 }
