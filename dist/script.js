@@ -145,16 +145,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // Send the same ready-to-read invitation text shown in the approved WhatsApp example.
-  const whatsappShare = document.getElementById("whatsapp-share");
-  if (whatsappShare) {
-    whatsappShare.addEventListener("click", () => {
-      const invitationUrl = window.location.href;
-      const shareText = `🌸 श्री गणेशाय नमः 🌸\n\nWith the blessings of our families,\nwe joyfully invite you to celebrate the wedding of\n\n💕 Viplove & Namrata 💕\n\n📅 10 December 2026\n\nYour presence and blessings will make our special day even more memorable.\n\n✨ View our wedding invitation:\n${invitationUrl}\n\nWarm regards,\nBharadwaj & Tamrakar Family 🙏`;
-      window.open(`https://wa.me/?text=${encodeURIComponent(shareText)}`, "_blank", "noopener,noreferrer");
-    });
-  }
-
   // 4. Smooth Scroll for "SCROLL TO RSVP"
   const scrollBtn = document.getElementById("scroll-to-rsvp-btn") || document.querySelector('[class*="scroll"], [data-opening-canvas] a');
   if (scrollBtn) {
